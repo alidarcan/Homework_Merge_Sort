@@ -1,5 +1,5 @@
 # MERGE SORT
-![image](img\Merge-sort-example-300px.gif)
+![image](img/Merge-sort-example-300px.gif)
 
 ## [16,21,11,8,12,22] -> Merge Sort
 
